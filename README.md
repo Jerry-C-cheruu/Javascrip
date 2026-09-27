@@ -1,0 +1,2 @@
+# Javascrip
+mainly for project
